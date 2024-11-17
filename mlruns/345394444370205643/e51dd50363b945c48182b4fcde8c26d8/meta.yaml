@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yabbi/Desktop/GitHub/MLflow/mlruns/345394444370205643/e51dd50363b945c48182b4fcde8c26d8/artifacts
+end_time: 1731818592714
+entry_point_name: ''
+experiment_id: '345394444370205643'
+lifecycle_stage: active
+run_id: e51dd50363b945c48182b4fcde8c26d8
+run_name: abundant-hound-641
+run_uuid: e51dd50363b945c48182b4fcde8c26d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731818591618
+status: 3
+tags: []
+user_id: yabbi
